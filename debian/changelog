@@ -1,3 +1,10 @@
+xorg-server (2:21.1.16-1deepin10) unstable; urgency=medium
+
+  * fix: Fix an issue where screenshot protection was ineffective in certain
+    senarios
+
+ -- lijunjie <lijunjie@uniontech.com>  Mon, 14 Sep 2026 13:31:04 +0800
+
 xorg-server (2:21.1.16-1deepin9) unstable; urgency=medium
 
   * fix: modesetting: Do not rotate damage clips in the shared pixmap path
